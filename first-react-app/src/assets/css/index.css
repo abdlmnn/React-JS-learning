@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  list-style: none;
+}
+
+body {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: 'Anton', sans-serif;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}

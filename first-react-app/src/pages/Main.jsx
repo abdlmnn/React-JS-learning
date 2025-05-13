@@ -16,6 +16,10 @@ const Main = () => {
                     </p>
                 </div>
             </div>
+
+            <div className="section-aboutpage">
+                
+            </div>
         </main>
     );
 }

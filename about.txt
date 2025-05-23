@@ -1,0 +1,25 @@
+React is a javascript library that's used to easily build and arrange user interfacs for web app.
+React focuses on building a web app.
+React is not a framework.
+
+INSTALLATION:
+
+Node.js:
+    a backend javascript runtime environtment it executes javascript code outside of a web browser.
+
+    link - https://nodejs.org/en/download
+
+COMMAND LINE:
+
+    npm create vite@latest
+    - create vite at least latest version
+    - vite a development server it's a modern replacement to create react app
+
+    cd first-react-app
+    npm install
+    npm run dev
+
+    npm install @fortawesome/fontawesome-free
+    - icons
+    - copy and paste in your app.jsx
+        import '@fortawesome/fontawesome-free/css/all.min.css';
